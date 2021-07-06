@@ -1,0 +1,173 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.orange-color {
+  color: orange;
+}
+.flexible {
+  display: flex;
+}
+
+section {
+  margin: 50px 0;
+}
+.header-section{
+  border-bottom: 1px dashed orange;
+}
+.half-width {
+  width: 50%;
+}
+.logo-area{
+  width: 100%;
+  padding-left: 50px;
+}
+.header-menu-area{
+  width: 100%;
+  text-align: right;
+  margin-top: 20px;
+  margin-right: 150px;
+}
+.header-menu-area a{
+    text-decoration: none;
+    background: orange;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 25px;
+    color: wheat;
+    font-weight: 700;
+}
+.order-section h1 {
+  padding: 100px 50px 20px 50px;
+  width: 600px;
+  line-height: 1.4em;
+  font-size: 55px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.order-section p {
+  padding-left: 50px;
+  font-size: 19px;
+  font-weight: 600;
+  color: #838382;
+  padding-bottom: 20px;
+  width: 600px;
+}
+.order-section a {
+  margin-left: 50px;
+  text-decoration: none;
+  background-image: linear-gradient(to right, orange, tomato);
+  padding: 15px 25px;
+  font-weight: bold;
+  color: white;
+  border-radius: 50px;
+  box-shadow: 4px 2px 30px rgba(219, 151, 25, 0.657);
+}
+.order-section img{
+  width: 600px;
+  padding-left: 100px;
+}
+.about-me-section {
+  background-image: url("images/shapes/7.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#about-me {
+  text-align: center;
+}
+#about-me img {
+  height: 400px;
+  padding-top: 100px;
+}
+.single-receipe img{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+.receipe-intro{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.single-receipe{
+  width: 300px;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 1px 7px 20px grey
+}
+.single-receipe p{
+  line-height: 1.6em;
+}
+.single-receipe h1{
+  font-size: 35px;
+}
+.receipe-intro-content{
+  width: 400px;
+  text-align: center;
+}
+.receipe-intro p{
+  width: 600px;
+  margin: 0 auto;;
+}
+.receipe-intro h1{
+  font-size: 40px;
+  color: gray;
+}
+.receipes{
+  margin: 20px 400px;
+}
+.social-count{
+  width: 900px;
+  border-radius: 15px;
+  padding: 20px 80px;
+  margin: 10px;
+  box-shadow: 1px 7px 20px grey;
+  margin: 90px 410px;
+}
+.social-count-single{
+  padding: 10px 70px;
+}
+
+.social-count-single h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.social-count-single p{
+    margin: 0;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px 0px 50px 0;
+}
+
+#contact-me-anchor {
+  text-decoration: none;
+  background-image: linear-gradient(to right, orange, tomato);
+  padding: 15px 25px;
+  font-weight: bold;
+  color: white;
+  border-radius: 50px;
+  box-shadow: 4px 2px 30px rgba(219, 151, 25, 0.657);
+}
+.contact-me-link{
+  display: block;
+  margin: 50px 0;
+}
+.about-me-intro p{
+  width: 400px;
+  line-height: 1.6em;
+}
+.about-me-intro{
+  margin-top: 125px;
+}
+.about-me-intro h1{
+  color: gray;
+  font-size: 35px;
+}
+.gray-color{
+  color: gray;
+}
